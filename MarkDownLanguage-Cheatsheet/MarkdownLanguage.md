@@ -51,7 +51,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://www.markdownguide.org/assets/images/image.png)
 
 
 ___
@@ -105,7 +105,7 @@ term
 
 ### Emoji
 
-That is so funny! :joy:
+That is so funny! :emoji:
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
