@@ -31,8 +31,5 @@ Contributions are highly encouraged! If you have a cheat sheet you'd like to sha
 
 If you're new to Git and GitHub, check out the [GitHub Docs](https://docs.github.com/en/get-started) for guidance on forking, cloning, and submitting pull requests.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE.md). By contributing, you agree that your contributions will be licensed under the MIT License.
 
 Happy coding! 🚀
